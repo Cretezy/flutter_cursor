@@ -1,10 +1,10 @@
-# flutter_cursor [![pub package](https://img.shields.io/pub/v/flutter_cursor.svg)](https://pub.dartlang.org/packages/flutter_cursor)
+# flutter_cursor [![pub package](https://img.shields.io/pub/v/flutter_cursor.svg)](https://pub.dev/packages/flutter_cursor)
 
 Custom cursor support for Flutter Web.
 
 Wrap your widgets with `HoverCursor` and pass a cursor, and it will be updated when entering/leaving the hover zone.
 
-[Pub](https://pub.dartlang.org/packages/flutter_cursor) - [API Docs](https://pub.dartlang.org/documentation/flutter_cursor/latest/) - [GitHub](https://github.com/Cretezy/flutter_cursor)
+[Pub](https://pub.dev/packages/flutter_cursor) - [API Docs](https://pub.dev/documentation/flutter_cursor/latest/) - [GitHub](https://github.com/Cretezy/flutter_cursor)
 
 ![](https://i.imgur.com/3taZC6C.png)
 
@@ -19,7 +19,7 @@ dependencies:
 
 ## Usage 
 
-See [Flutter example](https://github.com/Cretezy/flutter_cursor/tree/master/example) for a full overview.
+See [Flutter example](https://github.com/Cretezy/flutter_cursor/blob/master/example/flutter_cursor_example.dart) for a full overview.
 
 ### `HoverCursor`
 
