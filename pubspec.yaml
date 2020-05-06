@@ -1,0 +1,12 @@
+name: flutter_cursor
+description: Custom cursor support for Flutter (for hovering on web)
+version: 0.1.0
+homepage: https://github.com/Cretezy/flutter_cursor
+
+environment:
+  sdk: ">=2.0.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  universal_html: ^1.2.0
