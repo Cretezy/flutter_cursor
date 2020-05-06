@@ -1,3 +1,7 @@
+## [0.1.2] - 2020-05-06
+
+- Add license
+
 ## [0.1.1] - 2020-05-06
 
 - Update description & links

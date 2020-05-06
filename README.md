@@ -14,7 +14,7 @@ Install by adding this package to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_cursor: ^0.1.1
+  flutter_cursor: ^0.1.2
 ```
 
 ## Usage 
