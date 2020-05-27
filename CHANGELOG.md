@@ -1,3 +1,7 @@
+## [0.1.3] - 2020-05-27
+
+- Add `exitOnDispose` option for when navigating away (enabled by default)
+
 ## [0.1.2] - 2020-05-06
 
 - Add license
