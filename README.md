@@ -1,5 +1,11 @@
 # flutter_cursor [![pub package](https://img.shields.io/pub/v/flutter_cursor.svg)](https://pub.dev/packages/flutter_cursor)
 
+## Important Note
+
+Flutter has integrated this package [inside the core SDK](https://github.com/flutter/flutter/pull/59883)! Update to Flutter 1.20+ and use `MouseRegion`!
+
+## Original
+
 Custom cursor support for Flutter Web.
 
 Wrap your widgets with `HoverCursor` and pass a cursor, and it will be updated when entering/leaving the hover zone.
